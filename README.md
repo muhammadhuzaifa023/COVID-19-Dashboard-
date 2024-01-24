@@ -14,7 +14,7 @@ Welcome to the COVID-19 Dashboard created using Power BI!
 ### 📈 Statistics Page:
 Explore the dynamic trends and patterns related to COVID-19 with our Statistics Page. This section is designed to provide a comprehensive overview of critical data points:
  ### Death by State/Union:
- Visualize the distribution of COVID-19-related deaths across different states or union territories.
+Visualize the distribution of COVID-19-related deaths across different states or union territories.
  ### Deaths by Months:
  Analyze the monthly trends in reported fatalities, offering insights into the progression of the pandemic.
  ### Cured by Months:
