@@ -6,7 +6,7 @@ Welcome to the COVID-19 Dashboard created using Power BI!
  ### 🏠 Home Page:
  A centralized landing page offering a quick overview of the COVID-19 situation.
  <br>
- <br>
+
  <p align="center">
   <img src="img/Home Page pic.PNG" alt="Home Page pic">
 </p>
