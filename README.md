@@ -10,7 +10,8 @@ Welcome to the COVID-19 Dashboard created using Power BI!
  <p align="center">
   <img src="img/Home Page pic.PNG" alt="Home Page pic">
 </p>
- ### 📈 Statistics Page:
+<br>
+##  📈 Statistics Page:
 Explore the dynamic trends and patterns related to COVID-19 with our Statistics Page. This section is designed to provide a comprehensive overview of critical data points:
  ### Death by State/Union:
  Visualize the distribution of COVID-19-related deaths across different states or union territories.
