@@ -42,3 +42,22 @@ Our State Wise Testing Page is designed to equip users with detailed, state-spec
 <p align="center">
   <img src="img/Statewise Testing Pic.PNG" alt="Statewise Testing Pic">
 </p>
+<br> 
+
+## Feedback and Contributions
+
+We actively encourage feedback and contributions to enhance this dashboard. Feel free to submit issues or pull requests, and collaborate with us to improve and expand its capabilities.
+
+
+## Contact
+For any questions or feedback, feel free to reach out to us at [muhammadhuzaifa023@gmail.com].
+
+## Author
+
+- [Muhammad Huzaifa](https://github.com/muhammadhuzaifa023)
+
+## Acknowledgments
+
+Special acknowledgments to the vibrant Power BI community for their support and invaluable resources that have contributed to the development of this analytics dashboard.
+
+
