@@ -22,4 +22,7 @@ Visualize the distribution of COVID-19-related deaths across different states or
  Track the recovery patterns on a monthly basis, understanding the impact of healthcare interventions.
  ### Death by Year:
  Examine the annual statistics for a macroscopic view of the pandemic's impact over time.
- 
+ <br>
+ <p align="center">
+  <img src="img/Statics Page pic.PNG" alt="Statics Page pic">
+</p>
