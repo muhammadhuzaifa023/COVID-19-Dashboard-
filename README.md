@@ -26,3 +26,19 @@ Visualize the distribution of COVID-19-related deaths across different states or
  <p align="center">
   <img src="img/Statics Page pic.PNG" alt="Statics Page pic">
 </p>
+
+###  State Wise Testing Page:
+Dive into the granular details of COVID-19 testing across states with our State Wise Testing Page. Uncover key metrics and trends to gain a nuanced understanding of the testing landscape:
+## Trends
+### Negative Cases by State:
+Visualize the distribution of negative test results across different states, providing insights into testing efficacy.
+### Top 10 Sample by State:
+Identify the states contributing the most to the overall testing landscape, facilitating targeted interventions.
+### Positive Cases by States:
+Explore the geographical spread of positive COVID-19 cases, aiding in resource allocation and containment strategies.
+
+Our State Wise Testing Page is designed to equip users with detailed, state-specific information crucial for effective pandemic management
+
+<p align="center">
+  <img src="img/Statewise Testing Pic.PNG" alt="Statewise Testing Pic">
+</p>
